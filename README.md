@@ -1,5 +1,5 @@
-# I hope you like it
+# My website :)
 
-My website :) 
+I hope you like it
 
 https://erntern.github.io/
