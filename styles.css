@@ -706,3 +706,38 @@
     width: 100%;
   }
 }
+
+
+/* Maybe delete */
+.navbar__menu {
+  display: flex;
+  /* other styles */
+}
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 768px) {
+  .navbar__menu {
+    flex-direction: column;
+    /* other styles to adapt to smaller screens */
+  }
+
+  .navbar__toggle {
+    display: block;
+    /* show the mobile menu toggle */
+  }
+}
+
+/* Small devices (phones, less than 768px) */
+@media only screen and (max-width: 768px) {
+  /* Styles for phones */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Styles for tablets */
+}
+
+/* Large devices (desktops, 1024px and up) */
+@media only screen and (min-width: 1024px) {
+  /* Styles for desktops */
+}
