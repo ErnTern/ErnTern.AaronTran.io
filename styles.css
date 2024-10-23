@@ -277,6 +277,9 @@
 .main__content{
   color: #fff;
   width: 100%;
+  overflow: visible;
+  padding: 1rem;
+  box-sizing: border-box;
 }
 
 .main__content h1 {
@@ -528,6 +531,9 @@
 .main__content1 {
   color: #fff;
   width: 100%;
+  overflow: visible;
+  padding: 1rem;
+  box-sizing: border-box;
 }
 
 .main__content1 h1 {
@@ -555,7 +561,7 @@
 .main__content1 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
-  font-weight: 400; /* Corrected */
+  font-weight: 400; 
 }
 
 .main__content1 h2 span {
