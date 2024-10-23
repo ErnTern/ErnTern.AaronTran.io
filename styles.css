@@ -405,8 +405,7 @@
   }
 
   .main__img--card {
-    height: 425px;
-    width: 425px;
+    width: 100%;
   }
 
   .main__content {
@@ -647,8 +646,7 @@
   }
 
   .main__img--card1 {
-    height: 425px;
-    width: 425px;
+    width: 100%;
   }
 
   .main__content1 {
