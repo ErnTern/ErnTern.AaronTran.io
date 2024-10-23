@@ -1,2 +1,5 @@
-# ErnTern.AaronTran.io
-My website :)  https://erntern.github.io/
+# I hope you like it
+
+My website :) 
+
+https://erntern.github.io/
