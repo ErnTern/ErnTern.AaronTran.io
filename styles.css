@@ -325,7 +325,7 @@
   font-size: 1.8rem;
   background: rgb(255, 219, 47);
   background: radial-gradient(circle at -1% 57.5%, rgb(19, 170, 82) 0%, rgb(0, 102, 43) 90%);
-  padding: 20px 60px;
+  padding: 20px 40px;
   border: none;
   border-radius: 8px;
   color: #fff;
@@ -334,6 +334,7 @@
   position: relative;
   transition: all 0.5s;
   outline: none;
+  grid-template-columns: 1fr 1fr;
 }
 
 
