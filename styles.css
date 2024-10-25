@@ -704,10 +704,14 @@
   transition: 0.5s ease-out;
 } */
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
   .footer__link--items {
     margin: 0;
     padding: 10px;
+    width: 100%;
+  }
+
+   .footer__container{
     width: 100%;
   }
 }
@@ -748,6 +752,4 @@
 }
 
 
-  .footer__container{
-    width: 100%;
-  }
+
