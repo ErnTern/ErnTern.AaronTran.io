@@ -334,7 +334,7 @@
   position: relative;
   transition: all 0.5s;
   outline: none;
-  grid-template-columns: 1fr 1fr;
+/*   grid-template-columns: 1fr 1fr; */
 }
 
 
